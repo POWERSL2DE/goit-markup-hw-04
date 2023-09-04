@@ -435,6 +435,9 @@ body {
     .footer-container {
         display: flex;
         align-items: baseline;
+    }
+
+    .footer-information {
         margin-right: 120px;
     }
 
